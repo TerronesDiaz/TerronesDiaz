@@ -15,7 +15,7 @@ My professional journey is centered around the development of innovative web app
 I am currently developing a web-based system that allows for the management of products from any device with a web browser. Unlike other Point of Sale (POS) systems, mine uniquely allows for the rapid adjustment of prices and profit percentages by grouping profits by product lines. It supports multi-warehouse functionality and manages accounts receivable and payable. I am in the process of migrating this system to React.
 
 The repository is private but you can take a look at:
-https://demo.terronescolima.com/registro_inicio/form_inicio_registro.php
+https://demo.terronescolima.com/registro_inicio/form_inicio_registro.php  
 ![Demo](demo.png)
 User: usuario@gmail.com
 password: admin123
