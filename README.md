@@ -17,8 +17,6 @@ I am currently developing a web-based system that allows for the management of p
 The repository is private but you can take a look at:
 https://demo.terronescolima.com/registro_inicio/form_inicio_registro.php  
 
-![Demo](demo.png)
-
 User: usuario@gmail.com
 password: admin123
 
