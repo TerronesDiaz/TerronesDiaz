@@ -3,6 +3,11 @@
 ## 🙋‍♂️ About Me
 Hello, I'm a dedicated Software Programmer from Colima, Mexico, deeply passionate about web development, automation, and artificial intelligence. At 23 years old, I have earned a degree from the University of Colima and speak both English and Spanish fluently, with Spanish being my native language. My drive for technological advancement propels me to delve into and innovate within these fascinating domains.
 
+## 📫 Let's Connect!
+My portfolio: <br>
+https://www.terrones.dev <br> <br>
+I welcome collaboration, discussions on tech topics, or just a friendly hello. Connecting with individuals who share a passion for technology and innovation is always a delight.
+
 ## 🛠 Skills
 - **Programming Languages:** JavaScript, PHP, Java, Python
 - **Frameworks & Libraries:** React for web development
@@ -16,7 +21,3 @@ I am currently developing a web-based system that allows for the management of p
 
 The repository is private but you can take a look at:
 https://shorturl.at/fnST7
-
-## 📫 Let's Connect!
-I welcome collaboration, discussions on tech topics, or just a friendly hello. Connecting with individuals who share a passion for technology and innovation is always a delight.
-
